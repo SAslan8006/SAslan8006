@@ -1,10 +1,22 @@
+- 👋 Hi, I’m @SAslan8006
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
+<!---
+SAslan8006/SAslan8006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ Profile Trophy
+![Profile Views](https://komarev.com/ghpvc/?username=SAslan8006)
+![Suleyman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAslan8006&show_icons=true)
 # 💫 About Me:
-🔭 I’m an computer teachear and Marmara Universty gradute.<br>🌱 I’m currently learning C# and .Net back-end dev.
+🔭 I’m currently working on Basarsoft Information Tech.<br>🌱 I’m currently learning Java
 
 
 ## 🌐 Contact me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([htttps://discord.gg/#9501](https://discord.com/channels/S%C3%BCleyman#9501))[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/s%C3%BCleyman-aslan-763504217/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#9501) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%BCleyman-aslan-763504217/) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
