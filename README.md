@@ -1,18 +1,6 @@
-- 👋 Hi, I’m @SAslan8006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-SAslan8006/SAslan8006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- Profile Trophy
-![Profile Views](https://komarev.com/ghpvc/?username=SAslan8006)
-![Suleyman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAslan8006&show_icons=true)
 # 💫 About Me:
-🔭 I’m currently working on Basarsoft Information Tech.<br>🌱 I’m currently learning Java
+🔭    <br>🌱 I’m currently learning C# and .Net Back-End Developer
 
 
 ## 🌐 Contact me:
