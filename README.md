@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-🔭    <br>🌱 I’m currently learning C# and .Net Back-End Developer
+🔭  I graduated from Marmara University in 2010, Computer Education and Instructional Technologies.
+<br>🌱 I’m currently learning C# and .Net Back-End Developer
 I like to play chess. I like to play games. I like to improve myself. I aim to learn everything.
 
 
