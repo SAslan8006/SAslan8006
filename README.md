@@ -1,6 +1,6 @@
 ## :necktie: About Me
 
-Hi, my name is Umut and I'm a DevOps Engineer.
+Hi, my name is Süleyman and I'm a BackEnd development.
 
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Markdown][#markdown]
 
@@ -16,15 +16,13 @@ Hi, my name is Umut and I'm a DevOps Engineer.
 
 I graduated from Marmara University in 2010, Computer Education and Instructional Technologies.Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in March 2022, I started with BackEnd(.Net and C#) development and built foundational projects which you can discover on my profile. 
 
-## :email: Contact
+## 🌐:email: Contact
 
 You can reach me on these platforms.
 
 [![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord]
 
 
-## 🌐 Contact me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]()[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%BCleyman-aslan-763504217/) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -46,7 +44,7 @@ You can reach me on these platforms.
 
 ## :pushpin: Other Profiles
 
-[![Gitlab][#gitlab]][@gitlab] [![Docker Hub][#dockerhub]][@dockerhub] [![HackerRank][#hackerrank]][@hackerrank]
+ [![HackerRank][#hackerrank]][@hackerrank]
 
 <!-- Badge Index -->
 
@@ -93,9 +91,8 @@ You can reach me on these platforms.
 <!-- URL Index -->
 
 [@discord]:         https://discord.com/channels/S%C3%BCleyman#9501 "Contact me on Discord!"
-[@gmail]:           mailto:hasanumutyagci@gmail.com "Send me an email!"
-[@linkedin]:        https://www.linkedin.com/in/hasanumutyagci
+[@gmail]:           mailto:suleymanaslan.8006@gmail.com "Send me an email!"
+[@linkedin]:        https://www.linkedin.com/in/s%C3%BCleyman-aslan-763504217
 
-[@dockerhub]:       https://hub.docker.com/u/huyagci
 [@gitlab]:          https://gitlab.com/huyagci
-[@hackerrank]:      https://www.hackerrank.com/huyagci
+[@hackerrank]:      https://www.hackerrank.com/suleymanaslan_81
