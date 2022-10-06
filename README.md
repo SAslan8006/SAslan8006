@@ -10,7 +10,7 @@ Hi, my name is Süleyman and I'm a BackEnd development.
 
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] 
 
-> ##### _Back End &nbsp;&nbsp; ![PostgresSQL][#postgresql] 
+> ##### _Back End &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql]
 
 ## :bicyclist: My Journey
 
@@ -38,16 +38,8 @@ You can reach me on these platforms.
 [#linux]:           https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [#markdown]:        https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown
 [#postgresql]:      https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
-[#rancher]:         https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher
-[#terraform]:       https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform
-[#vagrant]:         https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant
-<!-- [#mongodb]:    https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white -->
-<!-- [#mysql]:      https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white -->
-<!-- [#nodejs]:     https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white -->
-<!-- [#python]:     https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white -->
-<!-- [#react]:      https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB -->
-<!-- [#sass]:       https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white -->
-[#typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
+[#mysql]:           https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+[#typescript]:      https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
 
 [#discord]:         https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
 [#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
