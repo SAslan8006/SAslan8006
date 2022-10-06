@@ -4,13 +4,13 @@ Hi, my name is Süleyman and I'm a BackEnd development.
 
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Markdown][#markdown]
 
-> ##### _Frontend_ &nbsp; ![Bootstrap][#bootstrap] 
+> ##### _Frontend_ &nbsp; ![Bootstrap][#bootstrap] ![Typescript][#typescript]
 
-> ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Github Actions][#gh-actions] ![Docker][#docker] 
+> ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Docker][#docker] 
 
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] 
 
-> ##### _Up Next_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] 
+> ##### _Back End &nbsp;&nbsp; ![PostgresSQL][#postgresql] 
 
 ## :bicyclist: My Journey
 
@@ -29,29 +29,15 @@ You can reach me on these platforms.
 
 <!-- Badge Index -->
 
-[#ansible]:         https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible
-[#aws]:             https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black
-[#bash]:            https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white "Bash Script"
 [#bootstrap]:       https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
-[#css]:             https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3
 [#docker]:          https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
 [#git]:             https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 [#github]:          https://img.shields.io/badge/Github-181717?style=flat&logo=github
-[#gitlab]:          https://img.shields.io/badge/Gitlab-330F63?style=flat&logo=gitlab
-[#gh-actions]:      https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white "Github Actions"
-[#gl-cicd]:         https://img.shields.io/badge/CI/CD-330F63?style=flat&logo=gitlab "Gitlab CI/CD"
-[#go]:              https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
-[#grafana]:         https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=F46800
-[#helm]:            https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm
 [#html]:            https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
-[#javascript]:      https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
-[#jenkins]:         https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white
-[#jira-software]:   https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jirasoftware "Jira Software"
 [#kubernetes]:      https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=white
 [#linux]:           https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [#markdown]:        https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown
 [#postgresql]:      https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
-[#prometheus]:      https://img.shields.io/badge/Prometheus-20232A?style=flat&logo=prometheus
 [#rancher]:         https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher
 [#terraform]:       https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform
 [#vagrant]:         https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant
@@ -61,7 +47,7 @@ You can reach me on these platforms.
 <!-- [#python]:     https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white -->
 <!-- [#react]:      https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB -->
 <!-- [#sass]:       https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white -->
-<!-- [#typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white -->
+[#typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
 
 [#discord]:         https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
 [#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
