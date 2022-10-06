@@ -10,7 +10,7 @@ Hi, my name is Süleyman and I'm a BackEnd development.
 
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] 
 
-> ##### _Back End &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql]
+> ##### _Back End_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql]
 
 ## :bicyclist: My Journey
 
