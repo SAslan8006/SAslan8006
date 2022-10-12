@@ -1,6 +1,6 @@
 ## :necktie: About Me
 
-Hi, my name is Süleyman and I'm a BackEnd development.
+Hi, my name is Süleyman and I'm a Full Stack and BackEnd development.
 
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Markdown][#markdown]
 
