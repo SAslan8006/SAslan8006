@@ -10,7 +10,7 @@ Hi, my name is Süleyman and I'm a Full Stack and BackEnd development.
 
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] 
 
-> ##### _Back End_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql]
+> ##### _Back End_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql] ![VisualStudio][#visualstudio]
 
 ## :bicyclist: My Journey
 
@@ -40,6 +40,7 @@ You can reach me on these platforms.
 [#postgresql]:      https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
 [#mysql]:           https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
 [#typescript]:      https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
+[#visualstudio]:    https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label
 
 [#discord]:         https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white
 [#dockerhub]:       https://img.shields.io/badge/Docker_Hub-294356?style=flat&logo=docker&logoColor=white
