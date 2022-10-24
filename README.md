@@ -10,7 +10,7 @@ Hi, my name is Süleyman and I'm a Full Stack and BackEnd development.
 
 > ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes]  ![ass](https://user-images.githubusercontent.com/109723263/197598742-9f6bffa5-61ca-4ff6-9096-dfdeb2dd5e72.svg)
 
-> ##### _Back End_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql] ![VisualStudio][#visualstudio]
+> ##### _Back End_ &nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql] ![VisualStudio][#visualstudio]
 
 ## :bicyclist: My Journey
 
