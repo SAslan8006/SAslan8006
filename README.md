@@ -8,8 +8,7 @@ Hi, my name is Süleyman and I'm a Full Stack and BackEnd development.
 
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Docker][#docker] 
 
-![image](https://user-images.githubusercontent.com/109723263/197598356-b7996cfd-4377-4144-9cec-7cd12d38e193.png)
-> ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes]  
+> ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes]  ![ass](https://user-images.githubusercontent.com/109723263/197598742-9f6bffa5-61ca-4ff6-9096-dfdeb2dd5e72.svg)
 
 > ##### _Back End_ &nbsp;&nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql] ![VisualStudio][#visualstudio]
 
