@@ -52,7 +52,7 @@ You can reach me on these platforms.
 
 [@discord]:         https://discord.com/channels/S%C3%BCleyman#9501 "Contact me on Discord!"
 [@gmail]:           mailto:suleymanaslan.8006@gmail.com "Send me an email!"
-[@linkedin]:        https://www.linkedin.com/in/s%C3%BCleyman-aslan-763504217
+[@linkedin]:        https://www.linkedin.com/in/s%C3%BCleyman-aslan/
 
 [@gitlab]:          https://gitlab.com/huyagci
 [@hackerrank]:      https://www.hackerrank.com/suleymanaslan_81
