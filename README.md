@@ -14,7 +14,7 @@ Hi, my name is Süleyman and I'm a Full Stack and BackEnd development.
 
 ## :bicyclist: My Journey
 
-I graduated from Marmara University in 2010, Computer Education and Instructional Technologies.Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in March 2022, I started with BackEnd(.Net and C#) development and built foundational projects which you can discover on my profile. 
+I graduated from Marmara University in 2010, Computer Education and Instructional Technologies.Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in March 2022, I started with Full Stack(.Net and C#) development and built foundational projects which you can discover on my profile. 
 
 ## 🌐:email: Contact
 
