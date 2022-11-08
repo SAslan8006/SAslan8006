@@ -1,7 +1,5 @@
 ## :necktie: About Me
 <img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
-Hi, my name is Süleyman. I'm a Angular and React Native for web/mobile front-end, .NET technologies for back-end development
- 
 
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Markdown][#markdown]
 
@@ -15,7 +13,7 @@ Hi, my name is Süleyman. I'm a Angular and React Native for web/mobile front-en
 
 ## :bicyclist: My Journey
 
-I graduated from Marmara University in 2010, Computer Education and Instructional Technologies.Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in March 2022, I started with Full Stack(.Net and C#) development and built foundational projects which you can discover on my profile. 
+Hi, my name is Süleyman. I'm a Angular and React Native for web/mobile front-end, .NET technologies for back-end development. I graduated from Marmara University in 2010, Computer Education and Instructional Technologies.Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in March 2022, I started with Full Stack(.Net and C#) development and built foundational projects which you can discover on my profile. 
 
 ## 🌐:email: Contact
 
