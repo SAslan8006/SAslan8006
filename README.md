@@ -1,6 +1,7 @@
 ## :necktie: About Me
 <img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 Hi, my name is Süleyman. I'm a Angular and React Native for web/mobile front-end, .NET technologies for back-end development
+ 
 
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Markdown][#markdown]
 
