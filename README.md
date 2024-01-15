@@ -15,7 +15,7 @@
 
 Hi, my name is Süleyman. I'm a Angular and React Native for web/mobile front-end, .NET and Node.Js technologies for back-end development. I graduated from Marmara University in 2010, Computer Education and Instructional Technologies.Technology and computers have always been a part of my life. I have found solutions to many problems with them. When I wanted to change my career towards software development in March 2022, I started with Full Stack(.Net and C#) development and built foundational projects which you can discover on my profile. 
 
-## 🌐:email: Contact
+## 🌐: Contact
 
 You can reach me on these platforms.
 
