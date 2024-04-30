@@ -3,7 +3,7 @@
 
 > ##### _Common_ &nbsp; ![Linux][#linux] ![Git][#git] ![Github][#github] ![Markdown][#markdown]
 
-> ##### _Frontend_ &nbsp; ![Bootstrap][#bootstrap] ![Typescript][#typescript]
+> ##### _Frontend_ &nbsp; ![Bootstrap][#bootstrap]  ![ass](https://user-images.githubusercontent.com/109723263/197598742-9f6bffa5-61ca-4ff6-9096-dfdeb2dd5e72.svg)
 
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Docker][#docker] 
 
