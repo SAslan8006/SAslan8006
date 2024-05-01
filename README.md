@@ -7,7 +7,7 @@
 
 > ##### _DevOps_ &nbsp;&nbsp;&nbsp; ![Docker][#docker] 
 
-> ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes]  ![ass](https://user-images.githubusercontent.com/109723263/197598742-9f6bffa5-61ca-4ff6-9096-dfdeb2dd5e72.svg)
+> ##### _Learning_ &nbsp; ![Kubernetes][#kubernetes] 
 
 > ##### _Back End_ &nbsp; ![PostgresSQL][#postgresql] ![Mysql][#mysql] ![VisualStudio][#visualstudio]
 
