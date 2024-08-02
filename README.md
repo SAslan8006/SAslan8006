@@ -17,7 +17,7 @@ Hi, my name is Süleyman. I'm a React and React Native for web/mobile front-end,
 
 ## 🌐: Contact
 
-You can reach me on these platforms.
+You can reach me on these platforms. 
 
 [![LinkedIn][#linkedin]][@linkedin] [![Email][#gmail]][@gmail] [![Discord][#discord]][@discord]
 
